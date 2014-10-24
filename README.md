@@ -3,8 +3,8 @@ pyquiz
 
 pyquiz is a utility that reads a file with questions and answers in it and displays the questions in a random order. The question will repeat until you input the correct answer. At the present time, the answer must be entered exactly (including capitalization) as it is in the file in order to be correct.
 
-Usage:
-======
+Usage
+=====
 
 Example Usage:
 
